@@ -120,14 +120,16 @@
 
 .exp-company-name,
 .education-school-name,
-.awards-company-name {
+.awards-company-name,
+.education-school-name {
     font-size: 25px;
     font-weight: bold;
 }
 
 .exp-time-period,
 .educationp-time-period,
-.awards-time-period {
+.awards-time-period,
+.education-time-period {
     font-size: 18px;
 }
 
