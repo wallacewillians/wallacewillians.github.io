@@ -32,13 +32,15 @@
 }
 
 .profile {
+    text-align: center;
     width: 100%;
     border-bottom: 2px solid #eeeeee;
 }
 
 .profile .profile-image {
-    width: 100%;
+    width: 80%;
     border-radius: 100%;
+    im
 }
 
 .name {
