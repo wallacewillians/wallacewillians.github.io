@@ -38,8 +38,9 @@
 }
 
 .profile-image {
-    width: 70%;
+    width: 50%;
     border-radius: 100%;
+    border: 5px solid white;
 }
 
 .name {
@@ -96,7 +97,7 @@
 
 .right-title {
     color: #eeeeee;
-    font-size: 40px;
+    font-size: 25px;
     font-family: 'Anton', sans-serif;
 }
 
@@ -109,6 +110,7 @@
 .about-me-contents {
     font-size: 18px;
     color: #eeeeee;
+    text-align: justify;
 }
 
 .experience-contents,
@@ -148,4 +150,5 @@
     font-size: 16px;
     padding-left: 5px;
     border-left: 3px solid #D6DBDF;
+    text-align: justify;
 }
