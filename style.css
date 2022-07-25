@@ -38,7 +38,7 @@
 }
 
 .profile-image {
-    width: 80%;
+    width: 70%;
     border-radius: 100%;
 }
 
@@ -103,6 +103,7 @@
 .gap {
     padding-bottom: 2rem;
     padding-left: 2rem;
+    padding-right: 2rem;
 }
 
 .about-me-contents {
@@ -146,4 +147,5 @@
 .awards-desc {
     font-size: 16px;
     padding-left: 5px;
+    border-left: 3px solid #D6DBDF;
 }
