@@ -18,6 +18,7 @@
     grid-column: span 2;
     height: 100%;
     background-color: #0f4b33;
+    box-shadow: 0 0 0.4em black;
 }
 
 .right-section {
@@ -25,6 +26,7 @@
     height: 100%;
     background-color: #445e50;
     border-radius: 0px 60px 0px 0px;
+    box-shadow: 0 0 0.4em black;
 }
 
 .left-section-contents {
@@ -37,10 +39,13 @@
     text-align: center;
 }
 
+.fade-in-image { animation: fadeIn 5s; }
+
 .profile-image {
     width: 50%;
     border-radius: 100%;
     border: 5px solid white;
+    box-shadow: 0 0 0.4em black;
 }
 
 .name {
@@ -110,7 +115,7 @@
 }
 
 .about-me-contents {
-    font-size: 18px;
+    font-size: 14px;
     color: #eeeeee;
     text-align: justify;
 }
@@ -128,7 +133,7 @@
 .education-school-name,
 .awards-company-name,
 .education-school-name {
-    font-size: 25px;
+    font-size: 20px;
     font-weight: bold;
 }
 
@@ -136,20 +141,20 @@
 .educationp-time-period,
 .awards-time-period,
 .education-time-period {
-    font-size: 18px;
+    font-size: 14px;
 }
 
 .exp-position,
 .awards-subject,
 .education-subject,
 .awards-name {
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .exp-desc,
 .education-desc,
 .awards-desc {
-    font-size: 16px;
+    font-size: 14px;
     padding-left: 5px;
     border-left: 3px solid #D6DBDF;
 }
